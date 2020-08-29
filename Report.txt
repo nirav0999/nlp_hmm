@@ -1,0 +1,43 @@
+﻿Report 
+q1 – HMM
+To run the program
+1. Give  separated output in Test_HMM.txt file in the following format
+i
+'d
+like
+french
+food
+.
+
+next
+thursday
+.
+2. The outputs are in RESULTS.txt file in /Code folder
+	0	1
+0		
+1	i	PRP
+2	'd	MD
+3	like	VB
+4	to	TO
+5	go	VB
+6	to	TO
+7	a	DT
+8	fancy	JJ
+9	restaurant	NN
+10	.	.
+11		
+12	i	PRP
+13	'd	MD
+14	like	VB
+15	french	JJ
+16	food	NN
+17	.	.
+18		
+19	next	JJ
+20	thursday	NN
+21	.	.
+22		 
+Assumptions - 
+1.    . denotes end of sentence
+2.   <space> denotes start of sentence
+
